@@ -385,6 +385,14 @@ hr{
     margin-bottom: 16px;
 }
 
+.host-bio{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: rgba(255, 255, 255, 0.712);
+    margin-bottom: 16px;
+}
+
 .host-social{
     align-items: center;
     gap: 8px;
